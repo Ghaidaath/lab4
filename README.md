@@ -33,6 +33,18 @@ task2:
 
 <img width="960" height="540" alt="2025-10-07 (17)" src="https://github.com/user-attachments/assets/e189e589-04ad-44b5-80d6-84ce13a4ba59" />
 
+step3:
+
+<img width="960" height="540" alt="2025-10-07 (18)" src="https://github.com/user-attachments/assets/99c15f0f-b01f-47b7-8ad8-ec66ffb74841" />
+
+
+step4:
+
+<img width="960" height="540" alt="2025-10-07 (19)" src="https://github.com/user-attachments/assets/71e2bcee-ae1f-4ec1-b35d-7ce2c6b004f3" />
+
+<img width="960" height="540" alt="2025-10-07 (20)" src="https://github.com/user-attachments/assets/94811a0d-7055-4268-a9fc-208dc1af8835" />
+
+<img width="960" height="540" alt="2025-10-07 (21)" src="https://github.com/user-attachments/assets/82485ffa-f434-456f-b8c0-18fd7a4a84a1" />
 
 
 ---
@@ -45,5 +57,32 @@ task3:
 ---
 task4:
 
+step1,2,3:
+
 <img width="960" height="540" alt="2025-10-07 (12)" src="https://github.com/user-attachments/assets/5048607b-7e9a-4060-bd7a-c1dc61d5f29e" />
 
+step4:
+
+<img width="960" height="540" alt="2025-10-07 (22)" src="https://github.com/user-attachments/assets/0e5d5c0a-9c12-45e4-badd-d2ca9ded4024" />
+
+step5:
+
+<img width="960" height="540" alt="2025-10-07 (23)" src="https://github.com/user-attachments/assets/ae7a57ac-ef26-428c-8948-86bc9350b4bb" />
+
+step6:
+
+<img width="960" height="540" alt="2025-10-07 (24)" src="https://github.com/user-attachments/assets/299db20d-8a03-4544-92c4-73e5237e2e5a" />
+
+<img width="960" height="540" alt="2025-10-07 (25)" src="https://github.com/user-attachments/assets/71d14dfa-50fd-4f21-adc0-2519ae1f0d2f" />
+
+<img width="960" height="540" alt="2025-10-07 (26)" src="https://github.com/user-attachments/assets/084b7c14-6a78-4ce7-a177-a88282e569ba" />
+
+<img width="960" height="540" alt="2025-10-07 (27)" src="https://github.com/user-attachments/assets/7df3afa0-a79e-418f-828c-433019534188" />
+
+
+---
+task5:
+
+<img width="960" height="540" alt="2025-10-07 (28)" src="https://github.com/user-attachments/assets/7ce88ca1-a8ed-4ac7-80ed-648e32aabcc1" />
+
+<img width="960" height="540" alt="2025-10-07 (29)" src="https://github.com/user-attachments/assets/1867eec1-dc25-4a4d-8b2c-1c4151d9beec" />
