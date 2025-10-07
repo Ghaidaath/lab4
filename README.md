@@ -86,3 +86,6 @@ task5:
 <img width="960" height="540" alt="2025-10-07 (28)" src="https://github.com/user-attachments/assets/7ce88ca1-a8ed-4ac7-80ed-648e32aabcc1" />
 
 <img width="960" height="540" alt="2025-10-07 (29)" src="https://github.com/user-attachments/assets/1867eec1-dc25-4a4d-8b2c-1c4151d9beec" />
+
+<img width="960" height="540" alt="2025-10-07 (30)" src="https://github.com/user-attachments/assets/58d0aaee-dd7e-44a8-833f-1e7d2f1974da" />
+
